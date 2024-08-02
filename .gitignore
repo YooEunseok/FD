@@ -1,0 +1,9 @@
+## igore files ##
+
+result/
+2050iter_flat/
+checkpoint/
+dataset/
+__pycache__/
+processed_passages/
+wandb/
